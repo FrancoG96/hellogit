@@ -1,3 +1,5 @@
+# Version del curso
+Version 1.2.2
 # Cabeceras
 ## Cabeceras
 ### Cabeceras
